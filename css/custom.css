@@ -1,0 +1,27 @@
+.container{
+    margin-top: 20px;
+}
+
+a.btn.btn-primary{
+    margin-bottom: 5px;
+    width:100px;
+}
+
+a.btn.btn-danger{
+    margin-bottom:5px;
+    width:100px;
+}
+
+.in-alto{
+    margin-left: 20px;
+}
+
+.totale{
+    color:#f8f9fa;
+    margin-left: 20px;
+}
+
+.totale-mese{
+    color:#f8f9fa;
+    margin-left: 20px;
+}
